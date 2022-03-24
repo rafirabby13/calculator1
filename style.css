@@ -1,0 +1,26 @@
+.container {
+    text-align: center;
+    margin-top: 73px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    height: 20px;
+    width: 301px;
+    border: 3px solid;
+    border-radius: 10px;
+    font-size: 34px;
+    padding: 10px;
+}
+
+button {
+    border-radius: 12px;
+    border: yellowgreen;
+    font-size: 23px;
+    background-color: #5fe29a;
+    width: 78px;
+    height: 61px;
+}
